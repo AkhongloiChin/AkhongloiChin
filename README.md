@@ -39,7 +39,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/akhongloi](www.linkedin.com/in/chiến-hoàng-77274a25a)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/chien-hoang/](https://www.linkedin.com/in/chi%E1%BA%BFn-ho%C3%A0ng-77274a25a/)
 
 ---
 
