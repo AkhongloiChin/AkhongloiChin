@@ -33,8 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AkhongloiChin&show_icons=true&theme=tokyonight" alt="Akhongloi's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhongloiChin&layout=compact&theme=tokyonight" alt="Top Langs" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=AkhongloiChin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
