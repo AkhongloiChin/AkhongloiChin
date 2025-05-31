@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for AkhongloiChin -->
 
 <h1 align="center">👋 Hi, I'm Akhongloi Chin</h1>
-<p align="center">Creative AI System Builder </p>
+<p align="center">Creative AI System Designer & Builder </p>
 
 ---
 
