@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- GitHub Profile README for AkhongloiChin -->
 
-<!--
-**AkhongloiChin/AkhongloiChin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Akhongloi Chin</h1>
+<p align="center">Creative AI System Builder </p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🔧 I build multi-modal agents that combine reasoning and generative capabilities to solve complex problems.
+
+🌍 I focus on applying AI to real-world challenges — from vision to language.
+
+⚡ I'm a fast learner, constantly exploring cutting-edge technologies like large language models (LLMs) and spiking neural networks (SNNs).
+
+📚 I’m experienced in building Retrieval-Augmented Generation (RAG) systems that combine knowledge retrieval with generative reasoning for more accurate and context-aware responses.
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=chainlink)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-101010?style=flat-square&logo=data:image/svg+xml;base64,...)
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhongloiChin&show_icons=true&theme=tokyonight" alt="Akhongloi's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhongloiChin&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=AkhongloiChin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [linkedin.com/in/akhongloi](www.linkedin.com/in/chiến-hoàng-77274a25a)
+
+---
+
+⭐️ **Thanks for visiting my profile!** ⭐️
